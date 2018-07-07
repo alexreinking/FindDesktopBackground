@@ -11,4 +11,4 @@ it has a few flags to change its behavior:
 * `/install` - Installs a context menu extension that runs the program in `/explorer` mode when right clicking on the desktop.
 * `/uninstall` - Removes the aforementioned shell extension.
 
-This code is GPLv3 licensed.
+This code is BSD 3-clause licensed.
